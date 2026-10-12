@@ -1,6 +1,0 @@
-{
-  "name": "Sistema Inteligente de Mantenimiento y 5S con NFC",
-  "description": "Plataforma industrial para gestión de maquinaria, mantenimiento preventivo/correctivo, checklists 5S e indicadores en tiempo real mediante tags NFC.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
