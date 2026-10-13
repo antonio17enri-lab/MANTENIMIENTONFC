@@ -1,0 +1,6 @@
+{
+  "name": "TAG OPS",
+  "description": "TAG OPS - Sistema Operativo Industrial con NFC: Inspección de maquinaria, mantenimiento, 5S, horas de operación y análisis financiero de producción.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
